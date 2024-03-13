@@ -1,0 +1,12 @@
+ 1. Missing input validation
+ 2. Buffer overflow
+ 3. Heap overflow
+ 4. String information disclosure
+ 5. String format vulnerability
+ 6. Usage of undeclared variable
+ 7. Memory leak
+ 8. Use after free
+ 9. Type overflow
+ 10. Null pointer dereference
+ 11. Command injection
+ 12. Double free
